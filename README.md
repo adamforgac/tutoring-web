@@ -1,2 +1,2 @@
 # tutoring-web
-Website for English tutoring
+English tutoring website that focuses primarily on design
